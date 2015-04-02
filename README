@@ -1,0 +1,20 @@
+__________________ALLUM1___________________________
+
+
+
+Pour obtenir le binaire, faire la commande "make"
+
+Le jeu vous offre trois interfaces.
+
+- Une interface graphique SDL.
+
+Pour y accéder, lancer le binaire avec l'option -g (./allum1 -g).
+
+- Une interface termscaps qui possède plusieurs niveaux de
+difficultés et la possibilité de choisir soit même le nombre de lignes.
+
+Pour y accéder, lancez le binaire l'option -t (./allum1 -t).
+
+- Une version simple avec la partie obligatoire du jeu.
+
+Pour y accéder, lancez le binaire sans option (./alluma1).
